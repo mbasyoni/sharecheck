@@ -1,0 +1,54 @@
+{
+  ".gitignore": {
+    "sha256": "8ffe9de56bd30c1a95cd945262d6e3ac355ada4111551dde41f67851b9f1fc55",
+    "bytes": 30
+  },
+  "LICENSE": {
+    "sha256": "9550040f94410366dd31d07a7f62ad23c619ca2b4f7021a681c5b231c0d6f7b7",
+    "bytes": 1080
+  },
+  "PROJECT_STORY.md": {
+    "sha256": "100606fad2375abdff1d26164b09dfbf6978843fc00bb2dc3f3dd595c7c316d9",
+    "bytes": 2348
+  },
+  "README.md": {
+    "sha256": "e6df3b2a2d533e53c60c67f6e5bf2219b290a1f04895d79e50fa7d27b9a250a1",
+    "bytes": 4327
+  },
+  "app.js": {
+    "sha256": "e3ab6fe67b487467602ea833c6f1fba4ce36692111e6e88e8e43b097ee992b34",
+    "bytes": 5265
+  },
+  "core.js": {
+    "sha256": "0b0a5cc962206d480e6a2e2a4c71914296533975deea17740df9667c9b5cc945",
+    "bytes": 4056
+  },
+  "docs/screenshot.png": {
+    "sha256": "6f9ef1b19fb4f8716fa1809694afb02d7d1bf4caa24cb22e7f5ccb6c4d10b886",
+    "bytes": 50459
+  },
+  "fixtures/dom-text.csv": {
+    "sha256": "8b2ab7a76b100c83f7d4b0906ea0b87b9e9f5c703f6e791eb84f5924cc423341",
+    "bytes": 47
+  },
+  "fixtures/malformed.csv": {
+    "sha256": "adb0776273789b050bc203210139d1508140ea6d8a32f3269e988a599bc54390",
+    "bytes": 13
+  },
+  "fixtures/max-escaped.csv": {
+    "sha256": "5eeead37946ef0ab137e048967e189edeb86e02d8b97f246528210faa6e9d190",
+    "bytes": 10006
+  },
+  "index.html": {
+    "sha256": "aa5bc82c257290b39f0ab09007f1f3c2d922717f7df513872a3630205a22a00a",
+    "bytes": 3081
+  },
+  "style.css": {
+    "sha256": "2c150e82798cd77cfcc3e72af97389c85527dd2c7fd7548ef104ebee058488fc",
+    "bytes": 1756
+  },
+  "tests/core.test.cjs": {
+    "sha256": "33b8af91048e7d5d72c7821da4f0fc926a221ee6d6a5f826414c5bd3eae7adf0",
+    "bytes": 2871
+  }
+}
