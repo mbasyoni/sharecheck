@@ -16,7 +16,7 @@ A new browser-only workflow, strict CSV parser, deterministic pattern review, re
 
 ## AI and credits
 
-Built with OpenAI assistance for implementation, tests, design and writing. Runtime processing is deterministic and local; file contents are not sent to an AI service. System fonts and browser-native APIs are used. Source is prepared under MIT. The human entrant must review the final package and disclosures.
+Design, implementation, testing and submission writing used OpenAI assistance. Runtime processing is deterministic and local; file contents are not sent to an AI service. System fonts and browser-native APIs are used. Source is prepared under MIT.
 
 ## Demo plan (about 90 seconds, narration optional)
 
