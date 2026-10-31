@@ -39,4 +39,4 @@ Managed-browser manual checks exercised input, explicit omission, acknowledgemen
 
 ## Provenance
 
-Created independently on 30 October 2026 for the SafeSpace Hacks event window. All example data is fictional. No commercial ImpedanceIQ code, private dataset, prior SamplePack/RunDelta/LabBrief source, third-party UI asset or external runtime dependency was incorporated. OpenAI assistance generated and reviewed code, tests, design and text under the entrant's direction. Human entrant must review and own the final submission and declarations. See LICENSE.
+Created independently on 30 October 2026 for the SafeSpace Hacks event window. All example data is fictional. No commercial ImpedanceIQ code, private dataset, prior SamplePack/RunDelta/LabBrief source, third-party UI asset or external runtime dependency was incorporated. See [AI credits](PROJECT_STORY.md#ai-and-credits). See LICENSE.
